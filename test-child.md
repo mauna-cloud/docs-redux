@@ -8,7 +8,7 @@ published: true
 
 # Child of test
 
-I am a Bastard page.
+I am a child page again.
 
 {% include test-grand-child.md %}
 {% include_relative Another-page.md %}
