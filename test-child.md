@@ -8,7 +8,7 @@ published: true
 
 # Child of test
 
-I am a child page again.
+I am a child page yet again.
 
 {% include test-grand-child.md %}
 {% include_relative Another-page.md %}
