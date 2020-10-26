@@ -10,5 +10,4 @@ published: true
 
 I am a child page yet again.
 
-{% include test-grand-child.md %}
 {% include ladygaga.md %}
