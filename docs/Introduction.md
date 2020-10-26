@@ -1,6 +1,6 @@
 ---
 title: Intro
-has_children: false
+has_children: true
 published: true
 ---
 
