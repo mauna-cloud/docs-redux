@@ -5,7 +5,7 @@ has_children: true
 nav_order: 1
 published: true
 ---
-![The Human Condition.png]({{site.baseurl}}/The Human Condition.png)
+![The Human Condition]({{site.baseurl}}/The Human Condition.png)
 
 # Child of test
 ---
