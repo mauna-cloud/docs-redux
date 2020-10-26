@@ -5,4 +5,4 @@ nav_order: 1
 published: true
 ---
 
-{% include generated/root-api-reference.md %}
+{% include generated/services/root-api-reference.md %}
