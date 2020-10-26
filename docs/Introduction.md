@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Intro
 has_children: false
 published: true
 ---
