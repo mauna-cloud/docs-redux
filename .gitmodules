@@ -1,0 +1,3 @@
+[submodule "submodules/spec"]
+	path = submodules/spec
+	url = git@github.com:mauna-cloud/main_spec.git
