@@ -11,4 +11,4 @@ published: true
 I am a child page yet again.
 
 {% include test-grand-child.md %}
-{% include_relative Another-page.md %}
+{% include ladygaga.md %}
