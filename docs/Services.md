@@ -1,6 +1,6 @@
 ---
 title: Services
-has_children: false
+has_children: true
 published: true
 ---
 
