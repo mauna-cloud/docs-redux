@@ -5,9 +5,11 @@ has_children: true
 nav_order: 1
 published: true
 ---
+# Child of test
+
 ![The Human Condition]({{site.baseurl}}/The Human Condition.png)
 
-# Child of test
+
 ---
 I am a child page yet again.
 
