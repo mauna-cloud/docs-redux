@@ -7,7 +7,7 @@ published: true
 ---
 
 # Child of test
-
+---
 I am a child page yet again.
 
 {% include ladygaga.md %}
